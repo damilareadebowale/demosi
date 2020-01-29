@@ -1,0 +1,30 @@
+body{
+    background-color: #f0f5e7;
+    width:fit-content;
+    border: 10px solid green;
+    padding: 30px;
+    margin: auto;
+
+}
+div {
+    text-align: center;
+    font-weight: 400;
+    font-size: large;
+}
+input[type=number] {
+    width: 80%;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+button {
+    width: 80%;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: large;
+}
